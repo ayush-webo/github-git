@@ -12,4 +12,5 @@ function featc(){
     return feat 
     console.log("this is new feat")
         console.log("this is new feat a")
+        console.log("this is new feat b")
 }
