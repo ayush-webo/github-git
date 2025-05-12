@@ -5,3 +5,6 @@ function isAbove18() {
     return age >= 18
 }
 
+function abc(){
+    return 1 + 2 + 3
+}
