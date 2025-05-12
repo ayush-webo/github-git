@@ -1,5 +1,5 @@
 const age = 21;
-const name1 = 'ayush';
+const name1 = 'ayush new';
 const feat = "hi"
 function abc(){
     return 1 + 2 + 3
